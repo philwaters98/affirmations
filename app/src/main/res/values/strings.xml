@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">I am not having a mental breakdown.</string>
+    <string name="affirmation2">I am not suffering.</string>
+    <string name="affirmation3">I do not have a fear of missing out.</string>
+    <string name="affirmation4">I am not overwhelmed</string>
+    <string name="affirmation5">I am not constantly tired.</string>
+    <string name="affirmation6">Lock-down does not sadden me.</string>
+    <string name="affirmation7">I am not wasting my twenties.</string>
+    <string name="affirmation8">I do not miss pints.</string>
+    <string name="affirmation9">I am not going insane.</string>
+    <string name="affirmation10">I have a healthy sleeping pattern.</string>
+</resources>
